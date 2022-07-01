@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/sjyoon314/Front_final2/static/js/main.24b74ffb.js",
+    "static/media/01.jpg": "/sjyoon314/Front_final2/static/media/01.9f6c5eb64547c541dfcc.jpg",
+    "static/media/logo1.jpg": "/sjyoon314/Front_final2/static/media/logo1.2c80273c464a3b679514.jpg",
+    "static/media/guestIcon.jpg": "/sjyoon314/Front_final2/static/media/guestIcon.11d2e1387c3820fb95f0.jpg",
+    "index.html": "/sjyoon314/Front_final2/index.html",
+    "main.24b74ffb.js.map": "/sjyoon314/Front_final2/static/js/main.24b74ffb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.24b74ffb.js"
+  ]
+}
